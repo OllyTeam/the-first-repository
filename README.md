@@ -1,2 +1,3 @@
 # the-first-repository
 this is to indicate that this is the beginning...
+from now programming is the priority
